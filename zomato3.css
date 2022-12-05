@@ -8,6 +8,7 @@
    .top{
        background-image: url(./images/zomatobackground.jpg);
        background-size: cover;
+       width: 100%;
    }
    
    .m{
@@ -244,6 +245,7 @@
        width: 99%;
        padding-top: 2px;
        padding-left: 12px;
+       
    }
    
    
@@ -251,6 +253,7 @@
    .col-6 {
        border: 2px solid black;
        height: 513px;
+      
    }
    
        
@@ -305,7 +308,7 @@
    .col-2{
       
        font-family: Okra, Helvetica, sans-serif;
-       width: 99.5%;
+       width: 100%;
        
    }
    .z1 p{
@@ -411,9 +414,10 @@
    .col-4 {
        
        height: 1321px;
-       
+      
        margin-top: 35px;
        width:100%;
+      
       
    }
    
@@ -428,16 +432,16 @@
    
    .square{
        height: 307px;
-       width: 21%;
+       width: 24%;
        border: 2px rgb(255, 252, 252) solid;
        float: left;
        font-family: 'DM Serif Display', serif;
-       padding: -5px;
+       padding: 0px;
        border-radius: 15px;
        box-shadow: 20px 20px 50px grey;
    }
    .s1{
-       margin-left: 253px;
+       margin-left: 211px;
        margin-top: 25px;
    }
    .s2{
@@ -445,8 +449,8 @@
        margin-top: 25px;
    }
    .s3{
-       margin-left: 1076px;
-       margin-top:-309px;
+       margin-left: 61px;
+       margin-top:25px;
    }
    .square img{
        width: 100%;
